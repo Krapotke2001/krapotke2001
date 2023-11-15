@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔧 Student (Systems Engineering)
+- 🎭 Amateur Actor
+- ⚙️ Maker
 
 <!--
 **Krapotke2001/krapotke2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
